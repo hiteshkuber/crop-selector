@@ -1,0 +1,14 @@
+Rice,30,35,5.5,6.5,food,Winter,450,700,Alluvial,West Bengal
+Maize,18,27,5.8,6.8,food,Summer,500,800,Sandy,Andhra Pradesh
+Wheat,25,30,5.5,6.5,food,Winter,450,650,Black,Uttar Pradesh
+Soybeans,15,20,6.3,6.5,food,Winter,450,700,Loamy,Madhya Pradesh
+Tomatoes,21,24,6,6.8,plantation,Summer,300,400,Sandy,West Bengal
+Sugarcane,25,45,6,7,plantation,Rainy,1500,2500,Alluvial,Uttar Pradesh
+Cotton,21,30,6.5,7.5,cash,Rainy,700,1300,Black,Gujarat
+Sunflower,10,15,6,7.5,cash,Winter,400,600,Sandy,Karnataka
+Banana,15,40,6.5,7.5,plantation,Rainy,1200,2200,Black,Tamil Nadu
+Cabbage,12,16,5.5,6.5,plantation,Winter,350,500,Sandy,West Bengal
+Citrus,20,25,5.5,7.5,plantation,Rainy,900,1200,Alluvial,Andhra Pradesh
+Onion,30,35,5.8,6.5,cash,Summer,350,550,Sandy,Maharastra
+Potato,20,30,4.8,5.4,plantation,Summer,500,700,Loamy,Uttar Pradesh
+Jute,25,40,4.8,5.8,cash,Rainy,900,1300,Alluvial,West Bengal
